@@ -21,3 +21,8 @@
 .App-intro {
   font-size: large;
 }
+
+h1 {
+  display: block;
+  width: 100%;
+}
